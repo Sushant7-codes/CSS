@@ -1,0 +1,39 @@
+
+div{
+    background-color: blue;
+    color: white;
+    display: inline;
+}
+
+button{
+    display:block;
+    background-color: green;
+    color: yellow;
+}
+
+#box1, #box2, #box3 {
+    width: 100px;
+    height: 100px;
+
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+
+
+h1{
+    text-align: center;
+    color: red;
+    display: block;
+}
+#box1{
+    
+    background-color: green;
+
+}
+
+#box3{
+    background-color: rgba(12, 45,78,0.7);
+}
+
+

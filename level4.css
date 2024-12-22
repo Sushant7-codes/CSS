@@ -1,0 +1,39 @@
+div{
+    height: 90px;
+    width: 250px;
+    border: solid black 2px;
+    background-color: yellow;
+    display: inline-block;
+   
+}
+
+    #box5{
+        position: relative;
+        top: 200px;
+        left: 50px;
+    } 
+
+    #box4{
+        position: relative;
+        top: 200px;
+        left: 90px;
+    } 
+
+    #box3{
+        position: relative;
+        top: 200px;
+        left: 130px;
+    } 
+
+    #box2{
+        position: relative;
+        top: 350px;
+        right: 575px;
+    } 
+
+    #box1{
+        position: relative;
+        top: 350px;
+        right: 500px;
+        
+    } 

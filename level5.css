@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+
+div
+{
+display: inline-block;
+height: 100px;
+width: 100px;
+}
+
+
+
+#container
+{
+    width: 800px;
+    height: 200px;
+    border: solid black 4px;
+    display: flex;
+    flex-direction: row;
+  
+}
+
+#box1{
+   
+    border: solid black 2px;
+    background-color:blanchedalmond;
+}
+
+#box2{
+   
+    border: solid black 2px;
+    background-color: yellow;
+}
+
+#box3{
+    
+    border: solid black 2px;
+    background-color: aqua;
+}
+
+#box4{
+   
+    border: solid black 2px;
+    background-color: lightblue;
+}
+
+#box5{
+   
+    border: solid black 2px;
+    background-color: bisque;
+}

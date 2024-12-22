@@ -1,0 +1,33 @@
+
+#div1{
+    color: white;
+    background-color: rgba(0,0,0,0.9);
+    
+}
+
+#div2{
+    color:black;
+    background-color:greenyellow;
+    height: 500px;
+
+}
+#div3{
+    color:white;
+    background-color:darkslategrey;
+
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    
+}
+
+
+

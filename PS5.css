@@ -1,0 +1,19 @@
+div{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}
+
+a{
+    text-decoration:none;
+    color: blue;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    justify-content: space-evenly;
+}

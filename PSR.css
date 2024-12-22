@@ -1,0 +1,39 @@
+#s10{
+    text-align: center;
+    text-transform: uppercase;
+
+    
+}
+
+p{
+    text-transform: uppercase;
+   
+}
+
+#a11{
+    font-size: 30px;
+    text-align: center;
+}
+
+#a12{
+    font-size: 30px;
+    text-align: center;
+}
+
+p1{
+    font-size: 20px;
+}
+
+p2{
+    font-size: 15px;
+}
+
+button{
+    background-color: lightgreen;
+    color: blue;
+}
+
+*{
+    background-color:lightblue;
+    font-family:'Times New Roman', Times, serif;
+}

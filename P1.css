@@ -1,0 +1,73 @@
+div{
+    background-color: blue;
+    color: white;
+    
+}
+
+
+.Greetings{
+    color: #ff0000;
+    text-align: center;
+}
+
+
+button
+{
+
+    background-color: lightgreen;
+
+   
+}
+
+<style>
+button{
+    background-color: blue;
+    text-align: center;
+}
+
+#h1 {
+    text-align: center;
+    text-decoration:blue wavy underline ;
+    font-weight: normal ;
+    font-family: 'Franklin Gothic Medium',  Arial, sans-serif;
+    
+}
+
+#h2{
+    text-align: center;
+    text-decoration: black dotted overline;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+
+
+#s23 {
+    text-align: center;
+    text-decoration: white line-through;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#s444 {
+    text-align: center;
+    text-decoration: crimson underline ;
+    font-weight: 300;
+    
+    
+}
+
+p{
+    text-transform: capitalize;
+    text-align:start;
+    text-decoration: blue wavy underline;
+    font-weight: lighter;
+    font-family: cursive;
+    font-size:17px;
+    font-style: italic;
+    line-height:40px;
+   
+}
+
+ 
+
